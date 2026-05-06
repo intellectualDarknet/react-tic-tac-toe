@@ -1,0 +1,8 @@
+.tictakelem {
+  flex: 0 1 32%;
+  background-color: lightgray;
+  width: 100px;
+  height: 100px;
+  margin: 5px;
+  text-align: center;
+}
